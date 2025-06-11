@@ -36,8 +36,6 @@ ENV/
 */.ipynb_checkpoints/*
 
 # Data files
-*.json
-!package.json
 *.csv
 
 # Generated files
