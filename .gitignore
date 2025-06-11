@@ -67,3 +67,6 @@ stan_model_*
 
 # Vercel
 .vercel
+
+# Node modules
+node_modules/
